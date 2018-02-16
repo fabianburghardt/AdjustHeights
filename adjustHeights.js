@@ -1,7 +1,4 @@
-// Execute Function with classname
-adjustHeights("same");
-
-// The Function
+// AdjustHeights.js
 function adjustHeights(el){
   var _this = el;
   var elements = document.getElementsByClassName(_this);
